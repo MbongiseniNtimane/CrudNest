@@ -1,0 +1,6 @@
+@CrudNest_HostAddress = http://localhost:5150
+
+GET {{CrudNest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
